@@ -50,4 +50,18 @@ title: Team Member
     </div> 
     {% endfor %} 
  </section>
+
+  <section class="cf team-container black-frame">
+    <h1 class="team-h1">Proceedings Committee</h1>
+
+    {% for team in site.data.twenty_16.teams_4 %}
+    <div class="team-member">
+      <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <h3>{{ team.name }}</h3>
+      <span>{{ team.position }}</span>
+       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
+    </div> 
+    {% endfor %} 
+ </section>
    
