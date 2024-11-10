@@ -1,9 +1,4 @@
-- name: Name-1
-  position: Position
+- name: Felipe Xavier Costa
+  position: Conference Chair
   img: TBD.jpg
-  email: hello.world@gmail.com
-
-- name: Name-2
-  position: Position
-  img: TBD.jpg
-  email: hello.world@gmail.com
+  email: costa@binghamton.edu
