@@ -1,5 +1,5 @@
 - time: 9:00 AM - 9:20 AM
-  info: "<u>Title</u><br><b>Speaker 1</b><br><i>Position</i><br><br>Topic"
+  info: "<u>Physical Networks of Complex Nodes and Edges</u><br><b>Adilson E. Motter</b><br><i>Northwestern University</i><br><br>The graph representation of network systems as diagrams of unstructured nodes and edges has proven extremely useful in past studies. However, this approach often falls short of capturing the essential characteristics of complex physical systems. In such systems, the nodes and edges themselves can embody complexity. In this presentation, I will discuss networks comprising complex nodes and edges, using microfluidic and metamaterial networks as model systems."
 
 - time: 9:20 AM - 9:40 AM
   info: "<u>Title</u><br><b>Speaker 2</b><br><i>Position</i><br><br>Topic"
