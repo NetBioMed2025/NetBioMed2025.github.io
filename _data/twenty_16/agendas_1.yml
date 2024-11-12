@@ -1,41 +1,53 @@
-- time: 9:00 AM - 9:30 AM
+- time: 9:00 AM - 9:20 AM
   info: "<u>Title</u><br><b>Speaker 1</b><br><i>Position</i><br><br>Topic"
 
-- time: 9:30 AM - 10:00 AM
+- time: 9:20 AM - 9:40 AM
   info: "<u>Title</u><br><b>Speaker 2</b><br><i>Position</i><br><br>Topic"
 
-- time: 10:00 AM - 10:30 AM
+- time: 9:40 AM - 10:00 AM
   info: "<u>Title</u><br><b>Speaker 3</b><br><i>Position</i><br><br>Topic"
 
-- time: 10:30 AM - 11:00 AM
+- time: 10:00 AM - 10:20 AM
   info: "<b>Break</b>"
 
-- time: 11:00 AM - 11:30 AM
+- time: 10:20 AM - 10:40 AM
   info: "<u>Title</u><br><b>Speaker 4</b><br><i>Position</i><br><br>Topic"
 
-- time: 11:30 AM - 12:00 PM
+- time: 10:40 AM - 11:00 AM
   info: "<u>Title</u><br><b>Speaker 5</b><br><i>Position</i><br><br>Topic"
 
-- time: 12:00 PM - 1:30 PM
-  info: "<b>Lunch</b>"
-
-- time: 1:30 PM - 2:00 PM
+- time: 11:00 AM - 11:20 AM
   info: "<u>Title</u><br><b>Speaker 6</b><br><i>Position</i><br><br>Topic"
 
-- time: 2:00 PM - 2:30 PM
+- time: 11:20 PM - 12:00 PM
+  info: "<b>Poster Session 1</b>"
+
+- time: 12:00 PM - 1:00 PM
+  info: "<b>Lunch</b>"
+
+- time: 1:00 PM - 1:20 PM
   info: "<u>Title</u><br><b>Speaker 7</b><br><i>Position</i><br><br>Topic"
 
-- time: 2:30 PM - 3:00 PM
+- time: 1:20 PM - 1:40 PM
   info: "<u>Title</u><br><b>Speaker 8</b><br><i>Position</i><br><br>Topic"
 
-- time: 3:00 PM - 3:30 PM
-  info: "<b>Break</b>"
-
-- time: 3:30 PM - 4:00 PM
+- time: 1:40 PM - 2:00 PM
   info: "<u>Title</u><br><b>Speaker 9</b><br><i>Position</i><br><br>Topic"
 
-- time: 4:00 PM - 4:30 PM
+- time: 2:00 PM - 2:20 PM
+  info: "<b>Break</b>"
+
+- time: 2:20 PM - 2:40 PM
   info: "<u>Title</u><br><b>Speaker 10</b><br><i>Position</i><br><br>Topic"
 
-- time: 4:30 PM - 6:00 PM
-  info: "<b>Poster Session</b>"
+- time: 2:40 PM - 3:00 PM
+  info: "<u>Title</u><br><b>Speaker 11</b><br><i>Position</i><br><br>Topic"
+
+- time: 3:00 PM - 3:20 PM
+  info: "<u>Title</u><br><b>Speaker 12</b><br><i>Position</i><br><br>Topic"
+
+- time: 3:20 PM - 4:00 PM
+  info: "<b>Poster Session 2</b>"
+
+- time: 4:00 PM - 5:00 PM
+  info: "<b>Round Table</b>"
