@@ -1,8 +1,8 @@
-title: BioNetMED
+title: NetBioMed 2025
 description: > # this means to ignore newlines until "baseurl:"
-  The official website for BioNetMED symposium
+  The official website for NetBioNet symposium
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "bionetmed.github.io" # the base hostname & protocol for your site
+url: "netbiomed2025.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
