@@ -13,7 +13,9 @@ logo: "../css/2016_style/img/icon-large.png"
 
 social: 
   name: Official Twitter account
-  link: "https://x.com/bionetmed2025"
+  link: "https://x.com/netbiomed2025"
+  name: Official Bluesky account
+  link: "https://bsky.app/profile/netbiomed2025.bsky.social"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -27,6 +29,8 @@ plugins:
 social:
   - title: twitter
     url: https://x.com/bionetmed2025
+  - title: bluesky
+    url: https://bsky.app/profile/netbiomed2025.bsky.social
 
 # Build settings
 markdown: kramdown
