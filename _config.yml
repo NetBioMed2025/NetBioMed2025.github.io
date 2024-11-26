@@ -29,7 +29,7 @@ plugins:
 social:
   - title: twitter
     url: https://x.com/bionetmed2025
-  - title: bluesky
+  - title: square-bluesky
     url: https://bsky.app/profile/netbiomed2025.bsky.social
 
 # Build settings
