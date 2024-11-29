@@ -1,29 +1,29 @@
 - inverted: 
   img: icon-about.jpeg
-  name: What is BioNetMED?
+  name: What is NetBioMed 2025?
   info: Read more about our symposium
-  link: "/2016/about"
+  link: "/2025/about"
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out our program
-  link: /2016/agenda
+  link: /2025/agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Organization
   info: Find out the organizers
-  link: /2016/team
+  link: /2025/team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
-  link: /2016/venue
+  link: /2025/venue
 
 - inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
-  link: /2016/faqs
+  link: /2025/faqs
