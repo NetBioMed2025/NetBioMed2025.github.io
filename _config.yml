@@ -1,8 +1,8 @@
-title: BioNetMED
+title: NetBioMed 2025
 description: > # this means to ignore newlines until "baseurl:"
-  The official website for BioNetMED symposium
+  The official website for NetBioNet symposium
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "bionetmed.github.io" # the base hostname & protocol for your site
+url: "netbiomed2025.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -13,7 +13,9 @@ logo: "../css/2016_style/img/icon-large.png"
 
 social: 
   name: Official Twitter account
-  link: "https://x.com/bionetmed2025"
+  link: "https://x.com/netbiomed2025"
+  name: Official Bluesky account
+  link: "https://bsky.app/profile/netbiomed2025.bsky.social"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -27,6 +29,8 @@ plugins:
 social:
   - title: twitter
     url: https://x.com/bionetmed2025
+  - title: square-bluesky
+    url: https://bsky.app/profile/netbiomed2025.bsky.social
 
 # Build settings
 markdown: kramdown

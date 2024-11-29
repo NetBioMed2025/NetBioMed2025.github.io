@@ -2,3 +2,18 @@
   position: Católica Biomedical Research Centre (Universidade Católica Portuguesa)
   img: felipe.jpg
   email: costa@binghamton.edu
+
+- name: Kimberly Glass
+  position: Harvard Medical School (Harvard University)
+  img: kimberly.jpg
+  email: kimberly.glass@channing.harvard.edu
+
+- name: Vera Pancaldi
+  position: Cancer Research Centre of Toulouse
+  img: vera.png
+  email: vera.pancaldi@inserm.fr
+
+- name: Martina Summer-Kutmon
+  position: Maastricht Centre for Systems Biology (Maastricht University)
+  img: martina.jpg
+  email: martina.kutmon@maastrichtuniversity.nl
