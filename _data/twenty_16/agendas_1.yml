@@ -50,4 +50,7 @@
   info: "<b>Poster Session 2</b>"
 
 - time: 4:45 PM - 5:45 PM
-  info: "<b>Panel Discussion</b>"
+  info: "<b>Panel Discussion: “How does network science help ML and DT applications in biology and medicine”</b>"
+
+- time: 5:45 PM - 6:00 PM
+  info: "<b>Closing</b>"
