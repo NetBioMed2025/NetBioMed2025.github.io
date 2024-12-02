@@ -1,4 +1,4 @@
-- title: Kristel Van Steen
+- title: Name
   name: Kristel Van Steen
   subtitle: Université de Liège
   img: TBD.jpg
@@ -7,7 +7,7 @@
   topic: Topic
   description: More Info
 
-- title: Rebekka Burkholz
+- title: Name
   name: Rebekka Burkholz
   subtitle: CISPA Helmholtz Center for Information Security
   img: TBD.jpg
@@ -16,7 +16,7 @@
   topic: Topic
   description: More Info
 
-- title: Natasa Przulj
+- title: Name
   name: Natasa Przulj
   subtitle: University College London
   img: TBD.jpg
@@ -25,7 +25,7 @@
   topic: Topic
   description: More Info
 
-- title: Laura Cantini
+- title: Name
   name: Laura Cantini
   subtitle: Institut Pasteur
   img: TBD.jpg
@@ -34,7 +34,7 @@
   topic: Topic
   description: More Info
 
-- title: Luis M. Rocha
+- title: Name
   name: Luis M. Rocha
   subtitle: Binghamton University
   img: TBD.jpg
