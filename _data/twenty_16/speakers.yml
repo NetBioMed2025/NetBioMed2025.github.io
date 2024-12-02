@@ -1,24 +1,42 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Kristel Van Steen
+  name: Kristel Van Steen
+  subtitle: Université de Liège
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Rebekka Burkholz
+  name: Rebekka Burkholz
+  subtitle: CISPA Helmholtz Center for Information Security
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Natasa Przulj
+  name: Natasa Przulj
+  subtitle: University College London
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Laura Cantini
+  name: Laura Cantini
+  subtitle: Institut Pasteur
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Luis M. Rocha
+  name: Luis M. Rocha
+  subtitle: Binghamton University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
