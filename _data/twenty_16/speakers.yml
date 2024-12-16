@@ -1,6 +1,6 @@
 - title: Kristel Van Steen
   name: Name-1
-  subtitle: Position
+  subtitle: Université de Liège
   img: kristel.jpeg
   thumbnail: kristel.jpeg
   alt: Picture of TBD
@@ -9,16 +9,16 @@
 
 - title: Rebekka Burkholz
   name: Name-2
-  subtitle: Position
+  subtitle: CISPA Helmholtz Center for Information Security
   img: rebekka.jpg
   thumbnail: rebekka.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Natasa Przulj
+- title: Nataša Pržulj
   name: Name-3
-  subtitle: Position
+  subtitle: Barcelona Supercomputing Center
   img: natasa.jpeg
   thumbnail: natasa.jpeg
   alt: Picture of TBD
@@ -27,7 +27,7 @@
 
 - title: Laura Cantini
   name: Name-4
-  subtitle: Position
+  subtitle: Institut Pasteur
   img: laura.jpg
   thumbnail: laura.jpg
   alt: Picture of TBD
@@ -36,7 +36,7 @@
 
 - title: Luis M. Rocha
   name: Name-5
-  subtitle: Position
+  subtitle: Binghamton University
   img: luis.jpg
   thumbnail: luis.jpg
   alt: Picture of TBD
@@ -45,7 +45,7 @@
 
 - title: Marco Manca
   name: Name-6
-  subtitle: Position
+  subtitle: CERN
   img: marco.jpg
   thumbnail: marco.jpg
   alt: Picture of TBD
