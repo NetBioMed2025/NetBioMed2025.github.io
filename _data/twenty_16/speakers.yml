@@ -1,8 +1,8 @@
 - title: Kristel Van Steen
   name: Name-1
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: kristel.jpeg
+  thumbnail: kristel.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -10,8 +10,8 @@
 - title: Rebekka Burkholz
   name: Name-2
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: rebekka.jpg
+  thumbnail: rebekka.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -19,8 +19,8 @@
 - title: Natasa Przulj
   name: Name-3
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: natasa.jpeg
+  thumbnail: natasa.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -28,8 +28,8 @@
 - title: Laura Cantini
   name: Name-4
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: laura.jpg
+  thumbnail: laura.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -37,8 +37,17 @@
 - title: Luis M. Rocha
   name: Name-5
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: luis.jpg
+  thumbnail: luis.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Marco Manca
+  name: Name-6
+  subtitle: Position
+  img: marco.jpg
+  thumbnail: marco.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
