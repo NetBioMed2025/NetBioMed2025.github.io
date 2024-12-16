@@ -20,7 +20,8 @@
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <a class="text-muted" href="{{ post.url }}">{{ post.subtitle }}</a>
+                        <!-- <p class="text-muted">{{ post.subtitle }}</p> -->
                     </div>
                 </div>
             {% endfor %}
