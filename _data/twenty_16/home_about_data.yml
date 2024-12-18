@@ -24,6 +24,6 @@
 
 - inverted: 
   img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
+  name: Submission guidelines
+  info: Accepted papers will be published as a special issue in [Name of journal].
   link: /2025/faqs
