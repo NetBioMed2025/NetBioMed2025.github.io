@@ -24,12 +24,12 @@ $text-black: #000000;
 
     h2 {
       font-size: 36px;
-      color: $primary-green;
+      color: $secondary-purple; /* Title color in purple */
     }
 
     p {
       font-size: 18px;
-      color: $text-black;
+      color: $text-black; /* Subtitle text in black */
     }
   }
 
@@ -44,27 +44,27 @@ $text-black: #000000;
 
       h3 {
         font-size: 28px;
-        color: $secondary-purple;
+        color: $primary-green; /* Subsection title in green */
       }
 
       p {
         font-size: 16px;
         line-height: 1.6;
-        color: $text-black;
+        color: $text-black; /* Text color remains black */
       }
 
       a {
         display: inline-block;
         margin-top: 20px;
         padding: 10px 20px;
-        background-color: $primary-green;
+        background-color: $secondary-purple; /* Button in purple */
         color: $background-white;
         text-decoration: none;
         border-radius: 5px;
 
         &:hover {
-          background-color: $accent-gold;
-          color: $text-black;
+          background-color: $accent-gold; /* Hover effect in gold */
+          color: $text-black; /* Text changes to black for contrast */
         }
       }
     }
@@ -75,7 +75,7 @@ $text-black: #000000;
 
       img {
         max-width: 100%;
-        border: 5px solid $primary-green;
+        border: 5px solid $primary-green; /* Image border in green */
         border-radius: 10px;
       }
     }
