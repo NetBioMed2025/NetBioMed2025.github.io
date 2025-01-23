@@ -62,3 +62,31 @@
 
     .about-container-top {
         margin-top: 100px;
+    }
+
+    .about-container-bottom {
+        margin-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .about {
+        margin: 10px 10px 10px 10px;
+    }
+
+    .about-container-top {
+        margin-top: 80px;
+    }
+
+    h1 {
+        font-size: 130%;
+    }
+
+    h2 {
+        font-size: 120%;
+    }
+
+    p, ol, li {
+        font-size: 100%;
+    }
+}
