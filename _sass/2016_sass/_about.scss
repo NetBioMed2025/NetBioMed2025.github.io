@@ -1,52 +1,49 @@
-/* About Section Styling */
-.about-section {
-  background-color: #326a20; /* Primary green for background */
-  color: #ffffff; /* Neutral white for text */
-  padding: 60px 0;
-}
+.about {
+  background-color: #000000; /* Neutral background for contrast */
+  color: #ffffff; /* Neutral text color for readability */
+  padding: 50px 20px;
 
-.about-section h2 {
-  color: #6a48a5; /* Secondary purple for headings */
-  margin-bottom: 20px;
-}
+  h2 {
+    color: #326a20; /* Primary green for headings */
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
 
-.about-section p {
-  color: #ffffff; /* Neutral white for paragraphs */
-  font-size: 16px;
-  line-height: 1.8;
-}
+  p {
+    color: #ffffff; /* Neutral white for paragraph text */
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
 
-.about-section .btn {
-  background-color: #c38b0f; /* Accent gold for buttons */
-  color: #ffffff; /* Neutral white for button text */
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-transform: uppercase;
-  font-weight: bold;
-  transition: all 0.3s ease-in-out;
-}
+  .highlight {
+    color: #c38b0f; /* Accent gold for highlighted text */
+    font-weight: bold;
+  }
 
-.about-section .btn:hover {
-  background-color: #6a48a5; /* Hover effect with secondary purple */
-  color: #ffffff; /* Ensure button text remains white on hover */
-}
+  a {
+    color: #6a48a5; /* Secondary purple for links */
+    text-decoration: none;
+  }
 
-.about-section .highlight {
-  color: #c38b0f; /* Accent gold for highlighted text */
-  font-weight: bold;
-}
+  a:hover {
+    color: #c38b0f; /* Accent gold for hover effect on links */
+    text-decoration: underline;
+  }
 
-.about-section .image-container {
-  border: 5px solid #6a48a5; /* Secondary purple for image borders */
-  border-radius: 10px;
-}
+  .button {
+    background-color: #326a20; /* Primary green for buttons */
+    color: #ffffff; /* Neutral white for button text */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+  }
 
-.about-section .link {
-  color: #c38b0f; /* Accent gold for links */
-  text-decoration: underline;
-}
-
-.about-section .link:hover {
-  color: #6a48a5; /* Secondary purple for hover effect on links */
+  .button:hover {
+    background-color: #c38b0f; /* Accent gold for hover effect on buttons */
+    color: #000000; /* Neutral black for hover text */
+  }
 }
