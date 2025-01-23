@@ -1,87 +1,63 @@
-/* Agenda Section Styles */
-
-/* Base Colors */
-:root {
-  --primary-green: #326a20;
-  --secondary-purple: #6a48a5;
-  --accent-gold: #c38b0f;
-  --neutral-white: #ffffff;
-  --neutral-black: #000000;
-}
-
-/* Section Background */
 .agenda {
-  background-color: var(--neutral-white);
-  color: var(--neutral-black);
-  padding: 50px 20px;
+  table-layout: fixed;
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+  td {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+  }
+  /* Column widths are based on these cells */
+  .agenda-time {
+    width: 40%;
+  }
+  .agenda-actiity {
+     width: 60%;
+  }
+  th, td {
+    border: 1px solid #00283c;
+    font-size: 120%;
+  }
+  th {
+    background: #00283c;
+    color: white;
+    letter-spacing: 1px;
+  }
+  td {
+    text-align: center;
+    font-size: 110%;
+    a {
+        color: #ff6738;
+        text-decoration: none;
+    }
+    b {
+        color: #ff6738;
+    }
+  }
+  td + td {
+    text-align: left;
+    padding-left: 10px;
+  }
 }
 
-/* Section Heading */
-.agenda h2 {
-  color: var(--primary-green);
-  font-size: 2.5em;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-/* Agenda Items */
-.agenda-item {
-  border-left: 5px solid var(--primary-green);
-  background-color: var(--neutral-white);
-  color: var(--neutral-black);
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-}
-
-.agenda-item:hover {
-  border-left: 5px solid var(--accent-gold);
-  background-color: var(--secondary-purple);
-  color: var(--neutral-white);
-}
-
-/* Time Label */
-.agenda-item .time {
-  color: var(--accent-gold);
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
-/* Description */
-.agenda-item .description {
-  color: var(--neutral-black);
-  font-size: 1em;
-}
-
-.agenda-item:hover .description {
-  color: var(--neutral-white);
-}
-
-/* Agenda List Styling */
-.agenda-list {
-  list-style: none;
-  padding: 0;
-}
-
-.agenda-list li {
-  margin-bottom: 15px;
-}
-
-/* Call-to-Action Buttons */
-.agenda .cta {
-  background-color: var(--secondary-purple);
-  color: var(--neutral-white);
-  border: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 1em;
-  display: inline-block;
-}
-
-.agenda .cta:hover {
-  background-color: var(--accent-gold);
-  color: var(--neutral-black);
+@media screen and (max-width: 760px){
+    .agenda {
+        .agenda-time {
+            width: 40%;
+        }
+        .agenda-actiity {
+            width: 60%;
+        }
+        td, th {
+            font-size: 100%;
+        }
+        td {
+            padding-left: 0px;
+        }
+        td + td {
+            padding-left: 10px;
+        }
+    }
 }
