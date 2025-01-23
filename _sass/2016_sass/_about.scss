@@ -1,49 +1,60 @@
+/* _about.scss */
+
+/* Define the color variables */
+$primary-green: #326a20;
+$secondary-purple: #6a48a5;
+$accent-gold: #c38b0f;
+$neutral-white: #ffffff;
+$neutral-black: #000000;
+
+/* About Section */
 .about {
-  background-color: #000000; /* Neutral background for contrast */
-  color: #ffffff; /* Neutral text color for readability */
-  padding: 50px 20px;
+  background-color: $neutral-white; /* Keep background clean and neutral */
+  color: $neutral-black; /* Text color for readability */
+  padding: 50px 0;
 
   h2 {
-    color: #326a20; /* Primary green for headings */
-    text-transform: uppercase;
+    color: $primary-green; /* Primary color for section title */
+    font-size: 2.5em;
+    text-align: center;
     margin-bottom: 20px;
   }
 
   p {
-    color: #ffffff; /* Neutral white for paragraph text */
-    font-size: 16px;
-    line-height: 1.6;
-    margin-bottom: 20px;
+    color: $neutral-black; /* Ensure text remains readable */
+    font-size: 1.2em;
+    line-height: 1.8;
+    text-align: justify;
+    margin: 0 15px;
   }
 
+  /* Highlighted text or key points */
   .highlight {
-    color: #c38b0f; /* Accent gold for highlighted text */
-    font-weight: bold;
+    background-color: $accent-gold; /* Use accent color for emphasis */
+    color: $neutral-black;
+    padding: 5px;
+    border-radius: 3px;
   }
 
-  a {
-    color: #6a48a5; /* Secondary purple for links */
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #c38b0f; /* Accent gold for hover effect on links */
-    text-decoration: underline;
-  }
-
-  .button {
-    background-color: #326a20; /* Primary green for buttons */
-    color: #ffffff; /* Neutral white for button text */
-    border: none;
+  /* Buttons in About Section */
+  .about-btn {
+    background-color: $secondary-purple; /* Secondary color for buttons */
+    color: $neutral-white; /* Ensure contrast */
     padding: 10px 20px;
+    border: none;
     border-radius: 5px;
+    font-size: 1em;
     text-transform: uppercase;
-    font-size: 14px;
     cursor: pointer;
-  }
+    margin: 10px auto;
+    display: block;
+    text-align: center;
+    max-width: 200px;
+    transition: background-color 0.3s ease-in-out;
 
-  .button:hover {
-    background-color: #c38b0f; /* Accent gold for hover effect on buttons */
-    color: #000000; /* Neutral black for hover text */
+    &:hover {
+      background-color: $accent-gold; /* Use accent color on hover */
+      color: $neutral-black; /* Ensure text is readable on hover */
+    }
   }
 }
