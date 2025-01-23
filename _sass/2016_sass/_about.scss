@@ -1,15 +1,8 @@
 /* About Section Styling */
 
-/* Variables */
-$primary-green: #326a20;
-$secondary-purple: #6a48a5;
-$accent-gold: #c38b0f;
-$background-white: #ffffff;
-$text-black: #000000;
-
 .about-section {
-  background-color: $background-white;
-  color: $text-black;
+  background-color: #ffffff; /* White background */
+  color: #000000; /* Black text */
   padding: 60px 0;
 
   .container {
@@ -24,12 +17,12 @@ $text-black: #000000;
 
     h2 {
       font-size: 36px;
-      color: $secondary-purple; /* Title color in purple */
+      color: #6a48a5; /* Title color in purple */
     }
 
     p {
       font-size: 18px;
-      color: $text-black; /* Subtitle text in black */
+      color: #000000; /* Subtitle text in black */
     }
   }
 
@@ -44,27 +37,27 @@ $text-black: #000000;
 
       h3 {
         font-size: 28px;
-        color: $primary-green; /* Subsection title in green */
+        color: #326a20; /* Subsection title in green */
       }
 
       p {
         font-size: 16px;
         line-height: 1.6;
-        color: $text-black; /* Text color remains black */
+        color: #000000; /* Text color remains black */
       }
 
       a {
         display: inline-block;
         margin-top: 20px;
         padding: 10px 20px;
-        background-color: $secondary-purple; /* Button in purple */
-        color: $background-white;
+        background-color: #6a48a5; /* Button in purple */
+        color: #ffffff; /* White text */
         text-decoration: none;
         border-radius: 5px;
 
         &:hover {
-          background-color: $accent-gold; /* Hover effect in gold */
-          color: $text-black; /* Text changes to black for contrast */
+          background-color: #c38b0f; /* Hover effect in gold */
+          color: #000000; /* Text changes to black for contrast */
         }
       }
     }
@@ -75,7 +68,7 @@ $text-black: #000000;
 
       img {
         max-width: 100%;
-        border: 5px solid $primary-green; /* Image border in green */
+        border: 5px solid #326a20; /* Image border in green */
         border-radius: 10px;
       }
     }
