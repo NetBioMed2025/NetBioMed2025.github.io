@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "../css/2016_style/img/official_logo.png"
 
 social: 
   name: Official Twitter account
@@ -28,7 +28,7 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://x.com/bionetmed2025
+    url: https://x.com/netbiomed2025
   - title: bluesky
     url: https://bsky.app/profile/netbiomed2025.bsky.social
 

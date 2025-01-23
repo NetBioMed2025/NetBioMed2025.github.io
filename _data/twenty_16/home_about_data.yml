@@ -1,4 +1,10 @@
 - inverted: 
+  img: icon-faq.jpeg
+  name: Submission guidelines
+  info: Submit your abstract by February 10th
+  link: /2025/faqs
+
+- inverted: 
   img: icon-about.jpeg
   name: What is NetBioMed 2025?
   info: Read more about our symposium
@@ -21,9 +27,3 @@
   name: Venue
   info: Learn more about our location
   link: /2025/venue
-
-- inverted: 
-  img: icon-faq.jpeg
-  name: Submission guidelines
-  info: Submit your abstract by February 10th
-  link: /2025/faqs
