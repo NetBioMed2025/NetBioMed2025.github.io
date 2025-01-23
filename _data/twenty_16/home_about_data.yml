@@ -4,25 +4,25 @@
   info: Submit your abstract by February 10th
   link: /2025/faqs
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-about.jpeg
   name: What is NetBioMed 2025?
   info: Read more about our symposium
   link: "/2025/about"
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out our program
   link: /2025/agenda
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-team.jpeg
   name: Organization
   info: Find out the organizers
   link: /2025/team
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
