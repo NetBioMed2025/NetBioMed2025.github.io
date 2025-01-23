@@ -1,89 +1,52 @@
-/* _about.scss */
-
-/* Base Colors */
-:root {
-  --primary-green: #326a20;
-  --secondary-purple: #6a48a5;
-  --accent-gold: #c38b0f;
-  --neutral-white: #ffffff;
-  --neutral-black: #000000;
-}
-
 /* About Section Styling */
-.about {
-  background-color: var(--neutral-white);
-  color: var(--neutral-black);
-  padding: 50px 0;
+.about-section {
+  background-color: #326a20; /* Primary green for background */
+  color: #ffffff; /* Neutral white for text */
+  padding: 60px 0;
 }
 
-.about-title {
-  color: var(--primary-green);
-  font-size: 2.5em;
-  font-weight: bold;
-  text-align: center;
+.about-section h2 {
+  color: #6a48a5; /* Secondary purple for headings */
   margin-bottom: 20px;
 }
 
-.about-subtitle {
-  color: var(--secondary-purple);
-  font-size: 1.5em;
-  text-align: center;
-  margin-bottom: 40px;
-}
-
-.about-content {
+.about-section p {
+  color: #ffffff; /* Neutral white for paragraphs */
+  font-size: 16px;
   line-height: 1.8;
-  font-size: 1.1em;
-  color: var(--neutral-black);
-  padding: 0 15px;
 }
 
-.about a {
-  color: var(--accent-gold);
-  text-decoration: none;
+.about-section .btn {
+  background-color: #c38b0f; /* Accent gold for buttons */
+  color: #ffffff; /* Neutral white for button text */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
 }
 
-.about a:hover {
-  color: var(--secondary-purple);
+.about-section .btn:hover {
+  background-color: #6a48a5; /* Hover effect with secondary purple */
+  color: #ffffff; /* Ensure button text remains white on hover */
+}
+
+.about-section .highlight {
+  color: #c38b0f; /* Accent gold for highlighted text */
+  font-weight: bold;
+}
+
+.about-section .image-container {
+  border: 5px solid #6a48a5; /* Secondary purple for image borders */
+  border-radius: 10px;
+}
+
+.about-section .link {
+  color: #c38b0f; /* Accent gold for links */
   text-decoration: underline;
 }
 
-/* Button Styling */
-.about .btn {
-  background-color: var(--secondary-purple);
-  color: var(--neutral-white);
-  padding: 10px 20px;
-  border-radius: 5px;
-  border: none;
-  font-size: 1em;
-  cursor: pointer;
-  display: inline-block;
-  margin-top: 20px;
-  text-align: center;
-}
-
-.about .btn:hover {
-  background-color: var(--accent-gold);
-  color: var(--neutral-black);
-}
-
-/* Image Styling */
-.about img {
-  border: 5px solid var(--primary-green);
-  border-radius: 10px;
-  max-width: 100%;
-  margin: 20px auto;
-  display: block;
-}
-
-/* Columns */
-.about .col {
-  padding: 15px;
-}
-
-.about .col-title {
-  color: var(--primary-green);
-  font-size: 1.2em;
-  font-weight: bold;
-  margin-bottom: 10px;
+.about-section .link:hover {
+  color: #6a48a5; /* Secondary purple for hover effect on links */
 }
