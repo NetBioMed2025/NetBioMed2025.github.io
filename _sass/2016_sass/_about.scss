@@ -1,68 +1,61 @@
-/* About Section Styles */
+// About Section Styling
 
-.about {
-  background-color: #ffffff; /* Neutral white for background */
-  color: #000000; /* Neutral black for text */
+.about-section {
+  background-color: #ffffff; // Background set to white for clarity
+  color: #000000; // Text color for high contrast
   padding: 60px 20px;
   text-align: center;
 }
 
-.about h2 {
-  color: #326a20; /* Primary green for headings */
+.about-section h2 {
+  color: #326a20; // Primary green for headings
   font-size: 2.5rem;
   margin-bottom: 20px;
 }
 
-.about p {
-  color: #000000; /* Neutral black for regular text */
-  font-size: 1.1rem;
+.about-section p {
+  color: #000000; // Text in black for readability
+  font-size: 1.2rem;
   line-height: 1.8;
-  margin: 0 auto;
-  max-width: 800px;
+  margin-bottom: 30px;
 }
 
-.about .highlight {
-  color: #6a48a5; /* Secondary purple for emphasis */
+.about-section a {
+  color: #6a48a5; // Secondary purple for links
+  text-decoration: none;
   font-weight: bold;
 }
 
-.about button, .about .btn {
-  background-color: #c38b0f; /* Accent gold for buttons */
-  color: #ffffff; /* Neutral white for button text */
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.about button:hover, .about .btn:hover {
-  background-color: #326a20; /* Change to primary green on hover */
-  color: #ffffff;
-}
-
-.about a {
-  color: #6a48a5; /* Secondary purple for links */
-  text-decoration: none;
-}
-
-.about a:hover {
-  color: #c38b0f; /* Accent gold for link hover */
+.about-section a:hover {
+  color: #c38b0f; // Accent gold for link hover effect
   text-decoration: underline;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-  .about {
-    padding: 40px 10px;
-  }
+.about-section .figure {
+  margin: 40px auto;
+  max-width: 80%;
+  border: 2px solid #326a20; // Border with primary green
+  border-radius: 10px;
+  background-color: #ffffff; // White background for figures
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
 
-  .about h2 {
-    font-size: 2rem;
-  }
+.about-section .figure img {
+  width: 100%;
+  border-radius: 8px;
+}
 
-  .about p {
-    font-size: 1rem;
-  }
+.about-section .figure-caption {
+  color: #6a48a5; // Secondary purple for captions
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.about-section .highlight {
+  background-color: #c38b0f; // Accent gold for highlighted text
+  color: #000000;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
 }
