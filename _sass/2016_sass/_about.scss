@@ -1,8 +1,8 @@
 // About Section Styling
 
 .about-section {
-  background-color: #ffffff; // Background set to white for clarity
-  color: #000000; // Text color for high contrast
+  background-color: #ffffff; // White background for clarity and cleanliness
+  color: #000000; // Black text for high readability
   padding: 60px 20px;
   text-align: center;
 }
@@ -11,10 +11,12 @@
   color: #326a20; // Primary green for headings
   font-size: 2.5rem;
   margin-bottom: 20px;
+  border-bottom: 3px solid #c38b0f; // Accent gold underline for emphasis
+  display: inline-block;
 }
 
 .about-section p {
-  color: #000000; // Text in black for readability
+  color: #000000; // Black text for readability
   font-size: 1.2rem;
   line-height: 1.8;
   margin-bottom: 30px;
@@ -34,7 +36,7 @@
 .about-section .figure {
   margin: 40px auto;
   max-width: 80%;
-  border: 2px solid #326a20; // Border with primary green
+  border: 3px solid #326a20; // Border with primary green for visual cohesion
   border-radius: 10px;
   background-color: #ffffff; // White background for figures
   padding: 20px;
@@ -53,9 +55,25 @@
 }
 
 .about-section .highlight {
-  background-color: #c38b0f; // Accent gold for highlighted text
-  color: #000000;
+  background-color: #c38b0f; // Accent gold for highlights
+  color: #000000; // Black text inside the highlight
   padding: 5px 10px;
   border-radius: 5px;
   font-weight: bold;
+}
+
+.about-section .btn {
+  background-color: #6a48a5; // Secondary purple for buttons
+  color: #ffffff; // White text for contrast
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.about-section .btn:hover {
+  background-color: #326a20; // Primary green for hover effect
+  color: #ffffff;
 }
