@@ -27,3 +27,9 @@
   name: Venue
   info: Learn more about our location
   link: /2025/venue
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Sponsorship
+  info: Learn how to become a sponsor
+  link: /2025/sponsors
