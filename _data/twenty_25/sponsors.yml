@@ -1,4 +1,4 @@
-- name: NetBio Track at ISMB
+- name: NetBio COSI
   img: Netbio.png
   contact: https://cosi.iscb.org/wiki/NetBio:Home
 - name: Cancer, Ageing & Rejuvenation (CARE) Graduate School 
@@ -19,3 +19,6 @@
 - name: PLOS Complex Systems
   img: PLOS-logo.png
   contact: https://journals.plos.org/complexsystems/
+- name: CBeRa Project at Católica Biomedical Research Centre
+  img: CBeRa_Logo_02.png
+  contact: https://www.cberaproject.eu/
