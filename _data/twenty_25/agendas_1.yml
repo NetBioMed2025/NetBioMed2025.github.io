@@ -1,53 +1,104 @@
-- time: 9:00 AM - 9:10 AM
-  info: "<b>Opening Remarks</b>"
+- time: 8:30 - 8:40
+  speaker: "Opening Remarks"
+  position: ""
+  title: ""
 
-- time: 9:10 AM - 9:35 AM
-  info: "<u>Title</u><br><b>Speaker 1</b><br><i>Position</i><br><br>Topic"
+- time: 8:40 - 9:10
+  speaker: "Kristel Van Steen"
+  position: "Université de Liège"
+  title: ""
 
-- time: 9:35 AM - 10:00 AM
-  info: "<u>Title</u><br><b>Speaker 2</b><br><i>Position</i><br><br>Topic"
+- time: 9:10 - 9:40
+  speaker: "Natasja Przulj"
+  position: "Mohamed bin Zayed University of Artificial Intelligence"
+  title: ""
 
-- time: 10:00 PM - 10:30 PM
-  info: "<b>Poster Session 1</b>"
+- time: 9:40 - 10:00
+  speaker: "M. Guillemaud, M. Chavez, V. Navarro, Lawrence J. Hirsch, A. Hanin"
+  position: ""
+  title: "Network-Based Clustering of Cytokine Profiles Reveals Inflammatory Heterogeneity in ICU Patients with Severe Unexplained Epileptic Seizures"
 
-- time: 10:30 AM - 11:00 AM
-  info: "<b>Coffee Break</b>"
+- time: 10:00 - 10:20
+  speaker: "Alejandro Adriaque Lozano, Hasan Balci, Martina Kutmon"
+  position: ""
+  title: "Using Knowledge Graphs for post-COVID Drug Repurposing"
 
-- time: 11:00 AM - 11:25 AM
-  info: "<u>Title</u><br><b>Speaker 3</b><br><i>Position</i><br><br>Topic"
+- time: 10:20 - 10:30
+  speaker: "Poster Session 1"
+  position: ""
+  title: ""
 
-- time: 11:25 AM - 11:50 AM
-  info: "<u>Title</u><br><b>Speaker 4</b><br><i>Position</i><br><br>Topic"
+- time: 10:30 - 11:00
+  speaker: "Coffee Break"
+  position: ""
+  title: ""
 
-- time: 11:50 AM - 12:15 AM
-  info: "<u>Title</u><br><b>Speaker 5</b><br><i>Position</i><br><br>Topic"
+- time: 11:00 - 11:30
+  speaker: "Anna Niarakis"
+  position: "Centre for Integrative Biology (CBI) of Toulouse"
+  title: ""
 
-- time: 12:15 PM - 2:30 PM
-  info: "<b>Lunch Break</b>"
+- time: 11:30 - 12:00
+  speaker: "Luis M. Rocha"
+  position: "Binghamton University"
+  title: ""
 
-- time: 2:30 PM - 2:55 PM
-  info: "<u>Title</u><br><b>Speaker 6</b><br><i>Position</i><br><br>Topic"
+- time: 12:00 - 12:20
+  speaker: "Iker Núñez-Carpintero, Jörg Menche, Julia Guthrie"
+  position: ""
+  title: "Deep integrative multilayer network-based analysis of rare neuromuscular disorders reveals overlapping multiscale endotypes involved in cardiac and skeletal muscle myopathies"
 
-- time: 2:55 PM - 3:20 PM
-  info: "<u>Title</u><br><b>Speaker 7</b><br><i>Position</i><br><br>Topic"
+- time: 12:20 - 14:30
+  speaker: "Lunch Break"
+  position: ""
+  title: ""
 
-- time: 3:20 PM - 3:45 PM
-  info: "<u>Title</u><br><b>Speaker 8</b><br><i>Position</i><br><br>Topic"
+- time: 14:30 - 15:00
+  speaker: "Rebekka Burkholtz"
+  position: "CISPA Helmholtz Center for Information Security"
+  title: ""
 
-- time: 3:45 PM - 4:00 PM
-  info: "<b>Poster Session 2</b>"
+- time: 15:00 - 15:30
+  speaker: "Marco Manca"
+  position: "SCImPULSE, BioDynaMo"
+  title: ""
 
-- time: 4:00 PM - 4:30 PM
-  info: "<b>Coffee Break</b>"
+- time: 15:30 - 15:50
+  speaker: "Manuel Ruiz-Botella, Roger Guimerà, Marta Sales-Pardo"
+  position: ""
+  title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
 
-- time: 4:30 PM - 4:55 PM
-  info: "<u>Title</u><br><b>Speaker 9</b><br><i>Position</i><br><br>Topic"
+- time: 15:50 - 16:00
+  speaker: "Poster Session 2"
+  position: ""
+  title: ""
 
-- time: 4:55 PM - 5:20 PM
-  info: "<u>Title</u><br><b>Speaker 10</b><br><i>Position</i><br><br>Topic"
+- time: 16:00 - 16:30
+  speaker: "Coffee Break"
+  position: ""
+  title: ""
 
-- time: 5:20 PM - 6:10 PM
-  info: "<b>Panel Discussion: “How can network science inform AI biomedical applications”</b>"
+- time: 16:30 - 17:00
+  speaker: "Laura Cantini"
+  position: "Institut Pasteur"
+  title: ""
 
-- time: 6:10 PM - 6:30 PM
-  info: "<b>Closing Remarks</b>"
+- time: 17:00 - 17:20
+  speaker: "Nolan Newman, Tatiana Belova, and Marieke Kuijjer"
+  position: ""
+  title: "SiSaNA: A Python-based command line interface for Single Sample Network Analysis"
+
+- time: 17:20 - 17:40
+  speaker: "Charley Presigny, Marie-Constance Corsi, and Fabrizio de Vico Fallani1"
+  position: ""
+  title: "Node-layer duality reveals latent brain network disruptions in Alzheimer’s disease"
+
+- time: 17:40 - 18:20
+  speaker: "Panel Discussion"
+  position: ""
+  title: "How can network science inform AI biomedical applications?"
+
+- time: 18:20 - 18:30
+  speaker: "Closing Remarks"
+  position: ""
+  title: ""
