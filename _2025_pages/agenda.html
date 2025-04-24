@@ -23,9 +23,7 @@ title: Agenda
             {% for agenda in site.data.twenty_25.agendas_1 %}
                 <tr>
                     <td>{{ agenda.time }}</td>
-                    <td><u>{{ agenda.title }}</u><br>
-                        <b>{{ agenda.speaker }}</b><br>
-                        <i>{{ agenda.position }}</i></td>
+                    <td><u>{{ agenda.title }}</u><br><b>{{ agenda.speaker }}</b><br><i>{{ agenda.position }}</i></td>
                 </tr> 
             {% endfor %}
         </table>
