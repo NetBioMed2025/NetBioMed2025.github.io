@@ -6,21 +6,21 @@
 - time: 8:40 - 9:10
   speaker: "Kristel Van Steen"
   position: "Université de Liège"
-  title: ""
+  title: "Individual-Specific Networks: Bridging population data and personalized insights for advanced patient subtyping"
 
 - time: 9:10 - 9:40
   speaker: "Natasja Przulj"
   position: "Mohamed bin Zayed University of Artificial Intelligence"
-  title: ""
+  title: "AI for multi-omic network fusion to personalize medicine"
 
 - time: 9:40 - 10:00
-  speaker: "M. Guillemaud, M. Chavez, V. Navarro, Lawrence J. Hirsch, A. Hanin"
-  position: ""
+  speaker: "Martin Guillemaud</b>, M. Chavez, V. Navarro, Lawrence J. Hirsch, A. Hanin<b>"
+  position: "Paris Brain Institute, INRIA, Sorbonne University"
   title: "Network-Based Clustering of Cytokine Profiles Reveals Inflammatory Heterogeneity in ICU Patients with Severe Unexplained Epileptic Seizures"
 
 - time: 10:00 - 10:20
-  speaker: "Alejandro Adriaque Lozano, Hasan Balci, Martina Kutmon"
-  position: ""
+  speaker: "Alejandro Adriaque Lozano, Hasan Balci, </b>Martina Kutmon<b>"
+  position: "Maastricht University"
   title: "Using Knowledge Graphs for post-COVID Drug Repurposing"
 
 - time: 10:20 - 10:30
@@ -41,11 +41,11 @@
 - time: 11:30 - 12:00
   speaker: "Luis M. Rocha"
   position: "Binghamton University"
-  title: ""
+  title: "Understanding multiscale factors in disease towards digital twins from a network science perspective"
 
 - time: 12:00 - 12:20
-  speaker: "Iker Núñez-Carpintero, Jörg Menche, Julia Guthrie"
-  position: ""
+  speaker: "Iker Núñez-Carpintero</b>, Jörg Menche, Julia Guthrie<b>"
+  position: "Ludwig Boltzmann Institute for Network Medicine at the University of Vienna"
   title: "Deep integrative multilayer network-based analysis of rare neuromuscular disorders reveals overlapping multiscale endotypes involved in cardiac and skeletal muscle myopathies"
 
 - time: 12:20 - 14:30
@@ -56,7 +56,7 @@
 - time: 14:30 - 15:00
   speaker: "Rebekka Burkholtz"
   position: "CISPA Helmholtz Center for Information Security"
-  title: ""
+  title: "Guiding gene regulatory process inference by domain knowledge"
 
 - time: 15:00 - 15:30
   speaker: "Marco Manca"
@@ -64,8 +64,8 @@
   title: ""
 
 - time: 15:30 - 15:50
-  speaker: "Manuel Ruiz-Botella, Roger Guimerà, Marta Sales-Pardo"
-  position: ""
+  speaker: "Manuel Ruiz-Botella</b>, Roger Guimerà, Marta Sales-Pardo<b>"
+  position: "Universitat Rovira i Virgili"
   title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
 
 - time: 15:50 - 16:00
@@ -81,16 +81,16 @@
 - time: 16:30 - 17:00
   speaker: "Laura Cantini"
   position: "Institut Pasteur"
-  title: ""
+  title: "Multi-modal learning for single-cell data integration"
 
 - time: 17:00 - 17:20
-  speaker: "Nolan Newman, Tatiana Belova, and Marieke Kuijjer"
-  position: ""
+  speaker: "Nolan Newman</b>, Tatiana Belova, and Marieke Kuijjer<b>"
+  position: "Norwegian Center for Molecular Medicine (University of Oslo)"
   title: "SiSaNA: A Python-based command line interface for Single Sample Network Analysis"
 
 - time: 17:20 - 17:40
-  speaker: "Charley Presigny, Marie-Constance Corsi, and Fabrizio de Vico Fallani1"
-  position: ""
+  speaker: "</b>Charley Presigny, Marie-Constance Corsi, and <b>Fabrizio de Vico Fallani1"
+  position: "Inria - Paris Brain Institute"
   title: "Node-layer duality reveals latent brain network disruptions in Alzheimer’s disease"
 
 - time: 17:40 - 18:20
