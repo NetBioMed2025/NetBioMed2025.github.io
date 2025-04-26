@@ -24,9 +24,11 @@
   title: "Using Knowledge Graphs for post-COVID Drug Repurposing"
 
 - time: 10:20 - 10:30
-  speaker: "Poster Session 1"
+  #speaker: "Elma Dervic</b>, <u>Comorbidity Networks From Population-Wide Health Data: Aggregated Data of 8.9M Hospital Patients (1997-2014)</u><b>"
+  #position: "</i><b>Luis Agustin Olivares-Quiroz</b>, <u>Silencing the Hubs: Disrupting Central Residues to Disable Viral Enzyme Residue Networks through Graph-Theory</u><i>"
+  title: "Poster Session 1"
   position: ""
-  title: ""
+  speaker: ""
 
 - time: 10:30 - 11:00
   speaker: "Coffee Break"
@@ -36,7 +38,7 @@
 - time: 11:00 - 11:30
   speaker: "Anna Niarakis"
   position: "Centre for Integrative Biology (CBI) of Toulouse"
-  title: ""
+  title: "Digital twins for complex human diseases: From pathways to cells to systems.<br>Focus on Rheumatoid Arthritis"
 
 - time: 11:30 - 12:00
   speaker: "Luis M. Rocha"
@@ -61,7 +63,7 @@
 - time: 15:00 - 15:30
   speaker: "Marco Manca"
   position: "SCImPULSE, BioDynaMo"
-  title: ""
+  title: "To know what we know. From the science of emergence to BioDynaMo."
 
 - time: 15:30 - 15:50
   speaker: "Manuel Ruiz-Botella</b>, Roger Guimerà, Marta Sales-Pardo<b>"
@@ -69,9 +71,12 @@
   title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
 
 - time: 15:50 - 16:00
-  speaker: "Poster Session 2"
+  #speaker: "Filipi Silva</b>, <u>Human Reference Atlas: Embeddings of Single-Cell Data</u><b>"
+  #position: "</i><b>Ahmed Khalil</b>, <u>The Role of Data Management and AI in Scientific Research—A Call for Change</u><i>"
+  title: "Poster Session 2"
   position: ""
-  title: ""
+  speaker: ""
+
 
 - time: 16:00 - 16:30
   speaker: "Coffee Break"
