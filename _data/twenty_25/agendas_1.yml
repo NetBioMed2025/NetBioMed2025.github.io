@@ -24,11 +24,9 @@
   title: "Using Knowledge Graphs for post-COVID Drug Repurposing"
 
 - time: 10:20 - 10:30
-  #speaker: "Elma Dervic</b>, <u>Comorbidity Networks From Population-Wide Health Data: Aggregated Data of 8.9M Hospital Patients (1997-2014)</u><b>"
-  #position: "</i><b>Luis Agustin Olivares-Quiroz</b>, <u>Silencing the Hubs: Disrupting Central Residues to Disable Viral Enzyme Residue Networks through Graph-Theory</u><i>"
-  title: "Poster Session 1"
-  position: ""
-  speaker: ""
+  title: "Comorbidity Networks From Population-Wide Health Data: Aggregated Data of 8.9M Hospital Patients (1997-2014)"
+  position: "Medical University of Vienna/ Complexity Science Hub/ Supply Chain Intelligence Institute Austria"
+  speaker: "Elma Dervic"
 
 - time: 10:30 - 11:00
   speaker: "Coffee Break"
@@ -50,7 +48,12 @@
   position: "Ludwig Boltzmann Institute for Network Medicine at the University of Vienna"
   title: "Deep integrative multilayer network-based analysis of rare neuromuscular disorders reveals overlapping multiscale endotypes involved in cardiac and skeletal muscle myopathies"
 
-- time: 12:20 - 14:30
+- time: 12:20 - 12:30
+  speaker: "Filipi Silva</b>, Andreas	Bueckle, Katy Börner"
+  position: "Indiana University"
+  title: "Human Reference Atlas: Embeddings of Single-Cell Data"
+
+- time: 12:30 - 14:30
   speaker: "Lunch Break"
   position: ""
   title: ""
@@ -71,11 +74,9 @@
   title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
 
 - time: 15:50 - 16:00
-  #speaker: "Filipi Silva</b>, <u>Human Reference Atlas: Embeddings of Single-Cell Data</u><b>"
-  #position: "</i><b>Ahmed Khalil</b>, <u>The Role of Data Management and AI in Scientific Research—A Call for Change</u><i>"
-  title: "Poster Session 2"
-  position: ""
-  speaker: ""
+  title: "The Role of Data Management and AI in Scientific Research—A Call for Change"
+  position: "ASCENSCIA"
+  speaker: "Ahmed Khalil"
 
 
 - time: 16:00 - 16:30
