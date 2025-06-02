@@ -57,60 +57,53 @@
   position: "Medical University of Vienna/ Complexity Science Hub/ Supply Chain Intelligence Institute Austria"
   speaker: "Elma Dervic"
 
-- time: 12:30 - 14:30
+- time: 12:30 - 14:10
   speaker: "Lunch Break"
   position: ""
   title: ""
 
-- time: 14:30 - 15:00
-  speaker: "Rebekka Burkholtz"
-  position: "CISPA Helmholtz Center for Information Security"
-  title: "Guiding gene regulatory process inference by domain knowledge"
+- time: 14:10 - 14:40
+  speaker: "Laura Cantini"
+  position: "Institut Pasteur"
+  title: "Multi-modal learning for single-cell data integration"
 
-- time: 15:00 - 15:30
+- time: 14:40 - 15:15
   speaker: "Marco Manca"
   position: "SCImPULSE, BioDynaMo"
   title: "To know what we know. From the science of emergence to BioDynaMo."
 
-- time: 15:30 - 15:50
+- time: 15:15 - 15:35
   speaker: "Manuel Ruiz-Botella</b>, Roger Guimerà, Marta Sales-Pardo<b>"
   position: "Universitat Rovira i Virgili"
   title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
 
-- time: 15:50 - 16:00
-  title: "The Role of Data Management and AI in Scientific Research—A Call for Change"
-  position: "ASCENSCIA"
-  speaker: "Ahmed Khalil"
-#  speaker: "Poster Session 1"
-#  position: ""
-#  title: ""
+- time: 15:35 - 15:55
+  speaker: "Nolan Newman</b>, Tatiana Belova, and Marieke Kuijjer<b>"
+  position: "Norwegian Center for Molecular Medicine (University of Oslo)"
+  title: "SiSaNA: A Python-based command line interface for Single Sample Network Analysis"
 
-- time: 16:00 - 16:30
+- time: 15:55 - 16:30
   speaker: "Coffee Break"
   position: ""
   title: ""
 
 - time: 16:30 - 17:00
-  speaker: "Laura Cantini"
-  position: "Institut Pasteur"
-  title: "Multi-modal learning for single-cell data integration"
+  speaker: "Rebekka Burkholtz"
+  position: "CISPA Helmholtz Center for Information Security"
+  title: "Guiding gene regulatory process inference by domain knowledge"
+
 
 - time: 17:00 - 17:20
-  speaker: "Nolan Newman</b>, Tatiana Belova, and Marieke Kuijjer<b>"
-  position: "Norwegian Center for Molecular Medicine (University of Oslo)"
-  title: "SiSaNA: A Python-based command line interface for Single Sample Network Analysis"
-
-- time: 17:20 - 17:40
   speaker: "</b>Charley Presigny, Marie-Constance Corsi, and <b>Fabrizio de Vico Fallani"
   position: "Inria - Paris Brain Institute"
   title: "Node-layer duality reveals latent brain network disruptions in Alzheimer’s disease"
 
-- time: 17:40 - 18:20
+- time: 17:20 - 18:00
   speaker: "Panel Discussion"
   position: ""
   title: "How can network science inform AI biomedical applications?"
 
-- time: 18:20 - 18:30
+- time: 18:00 - 18:10
   speaker: "Closing Remarks"
   position: ""
   title: ""
