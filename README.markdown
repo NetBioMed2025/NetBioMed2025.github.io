@@ -65,3 +65,7 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 _2025_pages
 _data
 _layouts
+
+## Need to Update
+2026_data/intro.html
+2026_data/sponsors.html
