@@ -1,0 +1,31 @@
+---
+layout: 2026_default
+permalink: /2026/agenda
+title: Agenda
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1>{{ page.title }}</h1>
+
+        <h2>June, 2026</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_26.agendas %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td><u>{{ agenda.title }}</u><br><b>{{ agenda.speaker }}</b><br><i>{{ agenda.position }}</i><br></td>
+                </tr> 
+            {% endfor %}
+        </table>
+        
+    </div>
