@@ -1,0 +1,94 @@
+- time: 9:00 - 9:10
+  speaker: "Opening Remarks"
+  position: ""
+  title: ""
+
+- time: 9:10 - 9:40
+  speaker: "Invited Talk 1"
+  position: ""
+  title: ""
+
+- time: 9:40 - 10:00
+  speaker: "Selected Talk 1"
+  position: ""
+  title: ""
+
+- time: 10:00 - 10:15
+  speaker: "BREAK"
+  position: ""
+  title: ""
+
+- time: 10:15 - 10:45
+  speaker: "Invited Talk 2"
+  position: ""
+  title: ""
+  
+- time: 10:45 - 11:15
+  speaker: "Invited Talk 3"
+  position: ""
+  title: ""
+
+- time: 11:15 - 11:35
+  speaker: "Selected Talk 2"
+  position: ""
+  title: ""
+
+- time: 11:35 - 11:55
+  speaker: "Poster Session 1"
+  position: ""
+  title: ""
+
+- time: 11:55 - 1:30
+  speaker: "LUNCH"
+  position: ""
+  title: ""
+
+- time: 1:30 - 2:00
+  title: "Invited Talk 4"
+  position: ""
+  speaker: ""
+
+- time: 2:00 - 2:30
+  speaker: "Invited Talk 5"
+  position: ""
+  title: ""
+
+- time: 2:30 - 2:50
+  speaker: "Selected Talk 3"
+  position: ""
+  title: ""
+
+- time: 2:50 - 3:05
+  speaker: "Break"
+  position: ""
+  title: ""
+
+- time: 3:05 - 3:35
+  speaker: "Invited Talk 6"
+  position: ""
+  title: ""
+
+- time: 3:35 - 4:05
+  title: "Invited Talk 7"
+  position: ""
+  speaker: ""
+
+- time: 4:05 - 4:25
+  speaker: "Selected Talk 4"
+  position: ""
+  title: ""
+
+- time: 4:25 - 4:45
+  speaker: "Poster Session 2"
+  position: ""
+  title: ""
+
+- time: 4:45 - 5:45
+  speaker: "Panel Discussion"
+  position: ""
+  title: ""
+
+- time: 5:45 - 6:00
+  speaker: "Closing Remarks and Awards"
+  position: ""
+  title: ""
