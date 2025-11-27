@@ -67,5 +67,5 @@ _data
 _layouts
 
 ## Need to Update
-2026_data/intro.html
-2026_data/sponsors.html
+<!--{% include 2026_data/intro.html %}-->
+<!--{% include 2026_data/sponsors.html %}-->
