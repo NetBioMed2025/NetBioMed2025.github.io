@@ -2,12 +2,10 @@ title: NetBioMed 2026
 description: > # this means to ignore newlines until "baseurl:"
   The official website for NetBioMed satellite
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "netbiomed2026.github.io" # the base hostname & protocol for your site
+url: "netbiomed2025.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-facebook:
-  app_id: 
 
 logo: "../css/img/official_logo.png"
 
